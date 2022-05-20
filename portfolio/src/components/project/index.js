@@ -47,16 +47,19 @@ const projects = [
 
 const Project = () => {
   return (
-    <div>
-      <h2>My Work</h2>
+    <div id="work">
+      <span>
+        <h2 id="project-header">My Work</h2>
+      </span>
+
       {projects &&
         projects.map((project) => (
-          <div>
+          <div class="card">
             <h3>{project.title}</h3>
             <img src={project.image} alt={project.imageAlt} />
             <p>
               Deployed app or walkthrough video available
-              <a href={project.deployed}>here</a>
+              <a href={project.deployed}> here</a>
             </p>
             <p>
               Repo available <a href={project.repo}>here</a>

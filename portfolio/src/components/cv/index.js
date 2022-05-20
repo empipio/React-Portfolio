@@ -18,7 +18,7 @@ const CV = () => {
         <li>Mongoose</li>
       </ul>
       <p>
-        Curriculum vitae available <a href="./assets/CV.pdf">here</a>
+        Curriculum vitae available <a href="../../assets/CV.pdf">here</a>
       </p>
     </section>
   );

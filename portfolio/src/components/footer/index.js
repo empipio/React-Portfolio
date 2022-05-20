@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <ul id="contact">
         <li>
-          <a href="https://github.com/empipio">github</a>
+          <a href="https://github.com/empipio">github/</a>
         </li>
         <li>
           <a href="https://www.linkedin.com/in/emily-mckibben-a726ba220">

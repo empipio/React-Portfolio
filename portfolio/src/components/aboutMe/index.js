@@ -5,7 +5,7 @@ const AboutMe = () => {
     <main id="about-me">
       <h2 id="name">Emily Mckibben</h2>
       <section id="me">
-        <img src="../assets/me.png" alt="pic of me" />
+        <img src="assets/me.png" alt="pic of me with Jack the fox terrier" />
         <p>
           Welcome! I am a trainee developer living in Cheshire, UK. I spent
           seven years as a small animal veterinary surgeon before enrolling in

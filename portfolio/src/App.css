@@ -20,15 +20,15 @@ header h1 {
   font-style: italic;
 }
 
-header nav {
+nav {
   float: right;
 }
 
-header nav ul {
+nav ul {
   list-style-type: none;
 }
 
-header nav ul li {
+nav ul li {
   display: inline-block;
   margin-top: 50px;
   margin-right: 20px;
@@ -67,27 +67,11 @@ p {
   gap: 20px;
 }
 
-#work header {
+.project-header {
   font: bold;
   font-size: 150%;
   font-style: normal;
-}
-
-#card1 {
-  padding: 5px;
-  width: 100%;
-  border-style: solid;
-  border-width: 1px;
-  background-color: rgb(172, 218, 219);
-  align-self: center;
-  flex-grow: 2;
-}
-
-#project2 {
-  max-width: 100%;
-  max-height: 100%;
-  margin: auto;
-  display: block;
+  text-align: center;
 }
 
 img {
