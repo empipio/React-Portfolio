@@ -1,0 +1,118 @@
+* {
+  color: navy;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+a:hover {
+  background-color: lavender;
+}
+
+#main-header {
+  background-color: rgb(172, 218, 219);
+  padding: 40px;
+}
+
+header h1 {
+  display: inline-block;
+  font-size: 400%;
+  font-style: italic;
+}
+
+header nav {
+  float: right;
+}
+
+header nav ul {
+  list-style-type: none;
+}
+
+header nav ul li {
+  display: inline-block;
+  margin-top: 50px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 150%;
+}
+
+#name {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#me img {
+  height: 400px;
+  width: auto;
+  margin: auto;
+  display: block;
+}
+
+#me p {
+  margin-left: 10px;
+}
+
+#work {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+#work header {
+  font: bold;
+  font-size: 150%;
+  font-style: normal;
+}
+
+#card1 {
+  padding: 5px;
+  width: 100%;
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgb(172, 218, 219);
+  align-self: center;
+  flex-grow: 2;
+}
+
+#project2 {
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  display: block;
+}
+
+img {
+  max-width: 50%;
+  max-height: 100%;
+  margin: auto;
+  display: block;
+}
+
+.card {
+  padding: 5px;
+  width: 50%;
+  border-style: solid;
+  border-width: 1px;
+  font-style: italic;
+  background-color: rgb(172, 218, 219);
+}
+
+#contact ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+#contact li {
+  display: inline-block;
+  font-style: italic;
+  text-align: center;
+}
