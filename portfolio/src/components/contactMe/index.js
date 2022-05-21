@@ -66,9 +66,13 @@ const Contact = () => {
           type="text"
           placeholder="message"
         />
-        <input type="text">message</input>
         <button onClick={handleFormSubmit}>Send message</button>
       </form>
+      {errorMessage && (
+        <div>
+          <p className="error-text">{errorMessage}</p>
+        </div>
+      )}
     </div>
   );
 };

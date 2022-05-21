@@ -21,7 +21,7 @@ export default function Page() {
     }
     return <CV />;
   };
-
+  console.log(currentPage);
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (

@@ -1,4 +1,5 @@
 import React from "react";
+import cv from "../../assets/CV.pdf";
 
 const CV = () => {
   return (
@@ -18,7 +19,7 @@ const CV = () => {
         <li>Mongoose</li>
       </ul>
       <p>
-        Curriculum vitae available <a href="../../assets/CV.pdf">here</a>
+        Curriculum vitae available <a href={cv}>here</a>
       </p>
     </section>
   );
