@@ -60,7 +60,7 @@ const Project = () => {
 
       {projects &&
         projects.map((project) => (
-          <div class="card">
+          <div className="card" key={project.name}>
             <h3>{project.title}</h3>
             <img src={project.image} alt={project.imageAlt} />
             <span>
