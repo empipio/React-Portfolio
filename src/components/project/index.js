@@ -55,7 +55,7 @@ const Project = () => {
   return (
     <div id="work">
       <span>
-        <h2 id="project-header">My Work</h2>
+        <h2 id="project-header">Projects</h2>
       </span>
 
       {projects &&
@@ -63,17 +63,16 @@ const Project = () => {
           <div class="card">
             <h3>{project.title}</h3>
             <img src={project.image} alt={project.imageAlt} />
-            <p>
+            <span>
               Deployed app or walkthrough video available
               <a href={project.deployed}> here</a>
-            </p>
-            <p>
+            </span>
+
+            <span>
               Repo available <a href={project.repo}>here</a>
-            </p>
+            </span>
           </div>
         ))}
-
-      {/* card here to display projects */}
     </div>
   );
 };

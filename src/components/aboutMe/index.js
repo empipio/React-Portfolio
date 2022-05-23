@@ -4,9 +4,11 @@ import me from "../../assets/me.png";
 const AboutMe = () => {
   return (
     <main id="about-me">
-      <h2 id="name">Emily Mckibben</h2>
+      <h2>About Me</h2>
+
       <section id="me">
         <img src={me} alt="pic of me with Jack the fox terrier" />
+        <h3 id="name">Emily Mckibben</h3>
         <p>
           Welcome! I am a trainee developer living in Cheshire, UK. I spent
           seven years as a small animal veterinary surgeon before enrolling in
