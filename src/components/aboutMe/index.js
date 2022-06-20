@@ -17,7 +17,7 @@ const AboutMe = () => {
           Jack.
         </p>
         <p>
-          Feel free to reach out via email:{" "}
+          Feel free to reach out via email:
           <a href="emckibben@hotmail.co.uk">emckibben@hotmail.co.uk</a>
         </p>
       </section>
