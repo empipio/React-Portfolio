@@ -17,6 +17,7 @@ const CV = () => {
         <li>Sequelize</li>
         <li>MongoDB</li>
         <li>Mongoose</li>
+        <li>GraphQl</li>
       </ul>
       <p>
         Curriculum vitae available <a href={cv}>here</a>
