@@ -16,6 +16,10 @@ const AboutMe = () => {
           yoga, reading and exploring the Peak District with my rescue dog,
           Jack.
         </p>
+        <p>
+          Feel free to reach out via email:{" "}
+          <a href="emckibben@hotmail.co.uk">emckibben@hotmail.co.uk</a>
+        </p>
       </section>
     </main>
   );
