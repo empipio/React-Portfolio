@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.96043b43.css",
-    "main.js": "/React-Portfolio/static/js/main.1d6ee291.js",
+    "main.js": "/React-Portfolio/static/js/main.d55541c2.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/me.png": "/React-Portfolio/static/media/me.2f08c75be9dc5d301290.png",
     "static/media/devhub.png": "/React-Portfolio/static/media/devhub.cccafd819825dbfd3fe7.png",
     "static/media/creator-labs.png": "/React-Portfolio/static/media/creator-labs.b1d5828fae897ab59f42.png",
     "static/media/weather-screenshot.png": "/React-Portfolio/static/media/weather-screenshot.9ca37cee84936e422d59.png",
     "static/media/social-network.png": "/React-Portfolio/static/media/social-network.1f34eb6de4918685c03a.png",
-    "static/media/CV.pdf": "/React-Portfolio/static/media/CV.cd8bc1067b1a9efc5481.pdf",
+    "static/media/CV.pdf": "/React-Portfolio/static/media/CV.c18398df8d9fba71a915.pdf",
     "static/media/tech-blog.png": "/React-Portfolio/static/media/tech-blog.8d4cf29eb125c581f0ae.png",
     "static/media/text-editor.png": "/React-Portfolio/static/media/text-editor.4d5b463a51dc47d87e79.png",
     "index.html": "/React-Portfolio/index.html",
     "main.96043b43.css.map": "/React-Portfolio/static/css/main.96043b43.css.map",
-    "main.1d6ee291.js.map": "/React-Portfolio/static/js/main.1d6ee291.js.map",
+    "main.d55541c2.js.map": "/React-Portfolio/static/js/main.d55541c2.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96043b43.css",
-    "static/js/main.1d6ee291.js"
+    "static/js/main.d55541c2.js"
   ]
 }
