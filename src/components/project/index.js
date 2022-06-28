@@ -5,8 +5,16 @@ import socialNetwork from "../../assets/social-network.png";
 import textEditor from "../../assets/text-editor.png";
 import devHub from "../../assets/devhub.png";
 import weatherDashboard from "../../assets/weather-screenshot.png";
+import walkThisWay from "../../assets/walk-this-way.png";
 
 const projects = [
+  {
+    title: "Walk This Way",
+    image: walkThisWay,
+    imageAlt: "screenshot of ",
+    deployed: "https://murmuring-fjord-50502.herokuapp.com/",
+    repo: "https://github.com/Yutthana00/Walk-This-Way",
+  },
   {
     title: "Creator Labs",
     image: creatorLabs,
