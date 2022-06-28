@@ -37,13 +37,6 @@ const projects = [
     repo: "https://github.com/empipio/Social-Network-API",
   },
   {
-    title: "Text Editor",
-    image: textEditor,
-    imageAlt: "screenshot of text editor deployed to heroku",
-    deployed: "https://empipio-text-editor.herokuapp.com/",
-    repo: "https://github.com/empipio/Text-Editor",
-  },
-  {
     title: "Junior Dev Hub",
     image: devHub,
     imageAlt: "screenshot of landing page",
